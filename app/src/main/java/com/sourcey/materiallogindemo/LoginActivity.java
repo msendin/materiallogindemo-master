@@ -2,7 +2,7 @@ package com.sourcey.materiallogindemo;
 
 import android.app.ProgressDialog;
 import android.os.Bundle;
-import androidx.appcompat.app.AppCompatActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 
 import android.content.Intent;
